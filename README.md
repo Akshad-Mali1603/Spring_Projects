@@ -8,7 +8,7 @@ Designed for learning, demonstrating, or sharing Java + Spring Boot projects.
 🧰 2. Technologies Used
 Backend: Spring Boot (Java), Spring MVC, Spring Data JPA
 
-Database: PostgreSQL (or H2)
+Database: PostgreSQL (Supabase)
 
 Deployment: Render.com
 
