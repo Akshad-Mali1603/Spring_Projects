@@ -8,8 +8,6 @@ Designed for learning, demonstrating, or sharing Java + Spring Boot projects.
 🧰 2. Technologies Used
 Backend: Spring Boot (Java), Spring MVC, Spring Data JPA
 
-Frontend: HTML, CSS, JavaScript
-
 Database: PostgreSQL (or H2)
 
 Deployment: Render.com
